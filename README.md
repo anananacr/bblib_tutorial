@@ -37,7 +37,9 @@ pip install -r requirements.txt
 
 - On the terminal type:
 
-  ```jupyter-lab```
+```bash
+jupyter-lab
+```
 
 - Access `bblib_tutorial/bblib_tutorial` and open the Jupyter notebook (*.ipynb) corresponding to the method you want.
 
