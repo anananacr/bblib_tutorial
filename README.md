@@ -1,6 +1,7 @@
 # bblib tutorial
 
 Jupyter notebooks showing examples how to run bblib.
+This tutorial is updated to bblib version 2.1.2
 
 ## Depencies:
 

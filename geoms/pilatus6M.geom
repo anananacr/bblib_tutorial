@@ -6,7 +6,7 @@ adu_per_photon = 1
 clen = 0.2116
 res = 5814.0  ; 172 micron pixel size
 
-mask_file = /gpfs/cfel/user/rodria/center_tutorial/masks/mask_chipD_001_00111.h5
+mask_file = /gpfs/cfel/user/rodria/bblib_tutorial/masks/mask_chipD_001_00111.h5
 mask = /data/data
 mask_good = 0x01
 
