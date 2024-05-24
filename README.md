@@ -10,7 +10,7 @@ Jupyter notebooks showing examples how to run bblib.
 
 ## Installation
 
-git clone
+git clone https://github.com/anananacr/bblib_tutorial.git
 
 pip install -r requirements.txt
 
