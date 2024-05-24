@@ -1,21 +1,16 @@
 
 # Tutorial of bblib
 
-Jupyter notebooks showing examples how to run the centering methods of bblib. 
+This repository contains Jupyter notebooks showing examples how to run the centering methods of bblib. 
 
-In `bblib_tutorial/data` you will find example of images necessary to run the centering methods implemented in bblib, as well as their corresponding mask (`bblib_tutorial/masks`) and CrystFEL geometry files (`bblib_tutorial/geoms`).
+In `bblib_tutorial/data` you will find example of images necessary to run the centering methods implemented in `bblib`, as well as their corresponding mask (`bblib_tutorial/masks`) and CrystFEL geometry files (`bblib_tutorial/geoms`).
 
-Remember to set the mask_file path in the geometry files (*.geom) with the corresponding path in your case.
+Remember to set the `mask_file` path in the geometry files (*.geom) with the corresponding path in your case.
 
-This tutorial is updated to bblib version 2.1.2
-
-## Dependencies:
-
-- Python 3.10
-  
-- requirements.txt
+This tutorial is updated to bblib version 2.1.2.
 
 ## Installation
+This library requires Python 3.10.
 - On the terminal type the following command:
 ```bash
 git clone https://github.com/anananacr/bblib_tutorial.git
@@ -27,7 +22,7 @@ git clone https://github.com/anananacr/bblib_tutorial.git
 cd bblib_tutorial
 ```
 
-- Install requirement:
+- Install requirements:
 
 ```bash
 pip install -r requirements.txt
@@ -35,11 +30,11 @@ pip install -r requirements.txt
 
 ## Usage
 
-- On the terminal type:
+- Start Jupyter Lab:
 
-```bash
-jupyter-lab
-```
+  ```bash
+  jupyter-lab
+  ```
 
 - Access `bblib_tutorial/bblib_tutorial` and open the Jupyter notebook (*.ipynb) corresponding to the method you want.
 
