@@ -1,3 +1,4 @@
+
 # Tutorial of bblib
 
 Jupyter notebooks showing examples how to run the centering methods of bblib. 
@@ -8,23 +9,29 @@ Remember to set the mask_file path in the geometry files (*.geom) with the corre
 
 This tutorial is updated to bblib version 2.1.2
 
-## Depencies:
+## Dependencies:
 
 - Python 3.10
   
 - requirements.txt
 
 ## Installation
+- On the terminal type the following command:
+```bash
+git clone https://github.com/anananacr/bblib_tutorial.git
+```
 
-```git clone https://github.com/anananacr/bblib_tutorial.git```
+- Access `bblib_tutorial` with the command:
 
-Access `bblib_tutorial`:
+```bash
+cd bblib_tutorial
+```
 
-```cd bblib_tutorial```
+- Install requirement:
 
-Install requirements
-
-```pip install -r requirements.txt```
+```bash
+pip install -r requirements.txt
+```
 
 ## Usage
 
