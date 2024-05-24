@@ -5,11 +5,13 @@ Jupyter notebooks showing examples how to run bblib.
 ## Depencies:
 
 - Python 3.10
+- 
 - requirements.txt
 
 ## Installation
 
 git clone
+
 pip install -r requirements.txt
 
 ## Usage
