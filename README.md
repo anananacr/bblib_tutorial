@@ -1,4 +1,4 @@
-# bblib_tutorial
+# bblib tutorial
 
 Jupyter notebooks showing examples how to run bblib.
 
