@@ -11,7 +11,7 @@ data = /entry/data/data
 detector_shift_x = /entry/shots/detector_shift_x_in_mm mm
 detector_shift_y = /entry/shots/detector_shift_y_in_mm mm
 
-mask_file = /path/to/tutorial/masks/mask_lyso_test_data_000014.h5
+mask_file = /path/to/bblib_tutorial/masks/mask_lyso_test_data_000014.h5
 mask = /data/data
 mask_good = 0x1
 ;mask_bad = 0x0

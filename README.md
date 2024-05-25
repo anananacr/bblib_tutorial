@@ -7,7 +7,7 @@ In `bblib_tutorial/data` you will find example of images necessary to run the ce
 
 Remember to set the `mask_file` path in the geometry files (*.geom) with the corresponding path in your case.
 
-This tutorial is updated to bblib version 2.1.2.
+This tutorial is updated to bblib version 2.1.3.
 
 ## Installation
 This library requires Python 3.10.
