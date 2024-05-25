@@ -36,7 +36,7 @@ pip install -r requirements.txt
   jupyter-lab
   ```
 
-- Access `bblib_tutorial/bblib_tutorial` and open the Jupyter notebook (*.ipynb) corresponding to the method you want.
+- Access `bblib_tutorial/bblib_tutorial` and open the Jupyter notebook (*.ipynb) corresponding to the method you wish.
 
 - Run the cells, changing the `/path/to/tutorial/` to the corresponding path in your case.
 
