@@ -1,7 +1,7 @@
 
 # bblib tutorial
 
-This tutorial provides examples of how to use bblib centering methods.
+This tutorial provides examples of how to use **bblib** centering methods.
 
 This repository contains Jupyter notebooks and the data used in this tutorial.
 
