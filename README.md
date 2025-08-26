@@ -46,3 +46,12 @@ pip install -r requirements.txt
 * Geometry files and masks required to run the example data are included in the `bblib_tutorial` directory.
 
 * If `plots_flag` is set to `True`, plots of the intermediate steps will be saved in the `/path/to/tutorial/center_refinement/plots` folder.
+
+
+## Contact
+
+Ana Carolina Rodrigues led the development of Beambusters from 2021 to 2025 at the Deutsches Elektronen-Synchrotron (DESY) in Hamburg, Germany.
+
+For questions, please contact:
+
+**Email**: sc.anarodrigues@gmail.com
