@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 - Access `bblib_tutorial/bblib_tutorial` and open the Jupyter notebook (*.ipynb) corresponding to the method you wish.
 
-- Run the cells, changing the `/path/to/tutorial/` to the corresponding path in your case.
+- Run the cells, changing the `/path/to/tutorial/` to the corresponding path in your system.
 
 - Geometry files and masks necessary to run the example data are in the bblib_tutorial path. 
 
@@ -46,6 +46,9 @@ pip install -r requirements.txt
 
 ## Author:
 
-Ana Carolina Rodrigues (2021 - 2024)
+Ana Carolina Rodrigues led the development of bblib from 2021 to 2025 at the Deutsches Elektronen-Synchrotron (DESY) in Hamburg, Germany.
+
+For questions, please contact:
+
 
 Email: sc.anarodrigues@gmail.com

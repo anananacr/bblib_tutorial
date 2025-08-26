@@ -24,9 +24,9 @@ p0/min_fs = 0
 p0/min_ss = 0 
 p0/max_fs = 1027
 p0/max_ss = 511
-p0/corner_y = 656.5
+p0/corner_y = -656.5
 p0/corner_x = -401.5
-p0/fs = +0.000000x -1.000000y
+p0/fs = +0.000000x +1.000000y
 p0/ss = +1.000000x +0.000000y
 
 group_d0 = p0

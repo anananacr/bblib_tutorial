@@ -16,7 +16,7 @@ rigid_group_collection_asics = d0
 0/min_ss = 0
 0/max_ss = 2526
 0/corner_x = -1252.864072
-0/corner_y = 1176.480840
+0/corner_y = -1176.480840
 0/fs = +1.000000x +0.000000y
-0/ss = +0.000000x -1.000000y
+0/ss = +0.000000x +1.000000y
 
