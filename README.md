@@ -1,28 +1,31 @@
 
-# Tutorial of bblib
+# bblib tutorial
 
-This repository contains Jupyter notebooks showing examples how to run the centering methods of bblib. 
+This tutorial provides examples of how to use bblib centering methods.
 
-In `bblib_tutorial/data` you will find example of images necessary to run the centering methods implemented in `bblib`, as well as their corresponding mask (`bblib_tutorial/masks`) and CrystFEL geometry files (`bblib_tutorial/geoms`).
+This repository contains Jupyter notebooks and the data used in this tutorial.
 
-Remember to set the `mask_file` path in the geometry files (*.geom) with the corresponding path in your system.
+In the folder `bblib_tutorial/data` you will find the data required to run the centering methods of `bblib`, as well as their corresponding masks in the `bblib_tutorial/masks` folder, and CrystFEL geometry files in the `bblib_tutorial/geoms` folder.
 
-This tutorial is updated to bblib version 2.1.3.
+Remember to set the `mask_file` path in the geometry files (*.geom) to the corresponding path on your system.
+
+This tutorial is runs on bblib version >= 2.1.3.
 
 ## Installation
-This library requires Python 3.10.
-- On the terminal type the following command:
+To run this tutorial, you will need Python **3.10**.
+
+* In the terminal, type the following command:
 ```bash
 git clone https://github.com/anananacr/bblib_tutorial.git
 ```
 
-- Access `bblib_tutorial` with the command:
+* Navigate into the `bblib_tutorial` folder:
 
 ```bash
 cd bblib_tutorial
 ```
 
-- Install requirements:
+* Install the requirements:
 
 ```bash
 pip install -r requirements.txt
@@ -30,25 +33,16 @@ pip install -r requirements.txt
 
 ## Usage
 
-- Start Jupyter Lab:
+* Start Jupyter Lab:
 
   ```bash
   jupyter-lab
   ```
 
-- Access `bblib_tutorial/bblib_tutorial` and open the Jupyter notebook (*.ipynb) corresponding to the method you wish.
+* Go to the folder `bblib_tutorial/bblib_tutorial` and open the Jupyter notebook (*.ipynb) corresponding to the method you want to run.
 
-- Run the cells, changing the `/path/to/tutorial/` to the corresponding path in your system.
+* Execute the cells, replacing `/path/to/tutorial/` with the correct path on your system.
 
-- Geometry files and masks necessary to run the example data are in the bblib_tutorial path. 
+* Geometry files and masks required to run the example data are included in the `bblib_tutorial` directory.
 
-- If `plots_flag` is True, intermediary steps plots will be saved in `/path/to/tutorial/center_refinement/plots`. 
-
-## Author:
-
-Ana Carolina Rodrigues led the development of bblib from 2021 to 2025 at the Deutsches Elektronen-Synchrotron (DESY) in Hamburg, Germany.
-
-For questions, please contact:
-
-
-Email: sc.anarodrigues@gmail.com
+* If `plots_flag` is set to `True`, plots of the intermediate steps will be saved in the `/path/to/tutorial/center_refinement/plots` folder.
