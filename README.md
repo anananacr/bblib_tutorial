@@ -5,7 +5,7 @@ This repository contains Jupyter notebooks showing examples how to run the cente
 
 In `bblib_tutorial/data` you will find example of images necessary to run the centering methods implemented in `bblib`, as well as their corresponding mask (`bblib_tutorial/masks`) and CrystFEL geometry files (`bblib_tutorial/geoms`).
 
-Remember to set the `mask_file` path in the geometry files (*.geom) with the corresponding path in your case.
+Remember to set the `mask_file` path in the geometry files (*.geom) with the corresponding path in your system.
 
 This tutorial is updated to bblib version 2.1.3.
 
