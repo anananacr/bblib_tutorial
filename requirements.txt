@@ -9,7 +9,7 @@ async-lru==2.0.5
 attrs==25.3.0
 babel==2.17.0
 base32hex==1.0.2
-bblib==2.2.0
+bblib==3.1.0
 beautifulsoup4==4.13.5
 black==24.1.1
 bleach==6.2.0
@@ -78,7 +78,7 @@ keyring==24.3.0
 kiwisolver==1.4.5
 lark==1.2.2
 lazy_loader==0.3
-llvmlite==0.42.0
+llvmlite==0.44.0
 lxml==5.1.0
 markdown-it-py==3.0.0
 MarkupSafe==3.0.2
@@ -97,6 +97,7 @@ nest-asyncio==1.6.0
 networkx==3.2.1
 notebook==7.4.5
 notebook_shim==0.2.4
+numba==0.61.2
 numpy==1.26.4
 ondamonitor==23.8.3
 overrides==7.7.0
